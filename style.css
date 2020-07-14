@@ -1,0 +1,15 @@
+*{
+	font-family: arial;
+}
+header{
+	background: #5664af ;
+	color: #ddd;
+	padding: .3%;
+	box-shadow: 0px 8px 8px -8px #000;
+}
+
+.parent{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+}
